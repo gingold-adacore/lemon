@@ -1,0 +1,2 @@
+./lemon --usb -i "greth0 edcl 10.10.1.162"
+./lemon --eth 10.10.1.162
